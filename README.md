@@ -18,3 +18,4 @@ To design and implement a Python function for calculating the volume of a cylind
 ### OUTPUT:
 
 ### RESULT:
+The Python function for calculating the volume of a cylinder was successfully integrated with the OpenAI Chat Completion system using LLM Function Calling. The model correctly identified when to invoke the function, passed the required parameters (radius and height), executed the calculation, and returned the computed volume as a natural language response.
